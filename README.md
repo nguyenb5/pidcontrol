@@ -5,3 +5,4 @@ documentation, like a schematic, bill of materials, block diagram, and timesheet
 the technical side of the project, the team learnt more about PID loop control and practiced the
 concept to make a servo out of a regular DC motor.
 
+My main task in the project was the technical expert who made decision on which part will be used as well as writing the code for PDI control from scratch.
